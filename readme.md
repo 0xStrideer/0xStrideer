@@ -33,6 +33,12 @@
 
 <div align="center">
   <picture>
+    <img src="https://github.com/user-attachments/assets/23a8d7cb-481b-4338-a9de-dd9031760a0e" alt="whoami"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielceravoloo/gabrielceravoloo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielceravoloo/gabrielceravoloo/output/github-contribution-grid-snake-dark.svg">
     <img alt="Animação cobrinha do GITHUB" src="https://raw.githubusercontent.com/gabrielceravoloo/gabrielceravoloo/output/github-contribution-grid-snake.svg">
